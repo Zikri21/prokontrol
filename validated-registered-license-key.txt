@@ -4,3 +4,6 @@ abca23a4bb13035006ec0de6d06aa116218e4f3803272dc158d9a8d044445784 1 2022-11-15 20
 
 Yg di atas jngan di hapus . Itu lisensi vps mu dan sebagai contoh.
 (Code lisensi) 1 (tanggal di buat) sepasi (tanggal exp) 1 1 1 pro (NAMA PENGGUNA DI SCRIPT)
+
+
+13d71273d2eaaeeda4760c663f13558e0214bf3fe3d4b22071b956ed8a945c98 1 2022-11-15 2022-12-15 1 1 1 pro waras
